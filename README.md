@@ -14,3 +14,10 @@ This is a reusable API implementation for authenticating users using Devise and 
 ## License
 
 This API is licensed under the [MIT License](LICENSE.txt).
+
+> ⚠️ **Legacy Notice**
+>
+> This is the **original version (v1)** of my Rails API + Devise + JWT template, built with Rails 7.0 and older Ruby versions.
+>
+> A new and improved version is currently being developed with Ruby 3.3.1 and Rails 7.2.2.1.
+> 👉 [Check out the latest version here](https://github.com/rustam-tolipov/rails-api-auth-template)
